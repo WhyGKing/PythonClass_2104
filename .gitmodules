@@ -1,0 +1,3 @@
+[submodule "djangobookmark"]
+	path = djangobookmark
+	url = https://github.com/WhyGKing/djangobookmark.git
